@@ -67,7 +67,7 @@
 
 /* Private typedef -----------------------------------------------------------*/
 /* Private define ------------------------------------------------------------*/
-#include "fatfs_sd.h"
+#include "../../Libraries/SDCARD/fatfs_sd.h"
 
 /* Private variables ---------------------------------------------------------*/
 /* Disk status */
